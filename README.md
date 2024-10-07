@@ -1,4 +1,4 @@
-# Twitter_Analytics_Dashboard
+# TwitterAnalyticsDashboard
 
 # Overview
 This project focuses on utilizing Twitter Analytics through Power BI to provide actionable insights for businesses. The key areas of analysis include:
